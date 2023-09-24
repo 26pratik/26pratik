@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik</h1>
-<h3 align="center">I'm a Software Engineer with a passion for crafting robust solutions. With experience in building secure Spring Boot applications, optimizing database performance, and teaching programming principles, I bring a versatile skill set to the table. Certified in Oracle Java and Microsoft Azure Fundamentals, I thrive in challenging environments and am always eager to explore the latest technologies. Let's connect and collaborate on exciting projects! </h3>
+<p align="left">I'm a Software Engineer with a passion for crafting robust solutions. With experience in building secure Spring Boot applications, optimizing database performance, and teaching programming principles, I bring a versatile skill set to the table. Certified in Oracle Java and Microsoft Azure Fundamentals, I thrive in challenging environments and am always eager to explore the latest technologies. Let's connect and collaborate on exciting projects! </p>
 
 - 📫 How to reach me **hariyapratik@gmail.com**
 
